@@ -19,7 +19,7 @@ if (number>=0):
 else:
     print("Negative")
 
-# 3.Second Approach
+# 3.Third Approach
 
 number = int(input("Enter A Number: "))
 print("Positive" if number>=0 else "Negative")

@@ -9,11 +9,11 @@ for i in range(1,power):
     output *= number
 print(output)
 
-# 3.Second Approach
+# 3.Third Approach
 number,power = int(input("Enter A Number: ")),int(input("Enter A Power: "))
 print(number**power)
 
-# 4.Second Approach
+# 4.Fourth Approach
 def recursive(number,power):
     if power == 0:
         return 1

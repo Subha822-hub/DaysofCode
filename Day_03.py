@@ -13,7 +13,7 @@ number = int(input("Enter A Number: "))
 print(int(number*(number+1)/2))
 
 
-# 3.Second Approach
+# 3.Third Approach
 
 def getSum(number):
     if number == 1:

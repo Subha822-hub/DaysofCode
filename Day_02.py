@@ -11,7 +11,7 @@ else:
 number = int(input("Enter A Number: "))
 print("Even" if number%2==0 else "Odd")
 
-# 3.Second Approach
+# 3.Third Approach
 
 def isEven(number):
     return not number&1
